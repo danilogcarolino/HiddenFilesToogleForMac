@@ -2,7 +2,7 @@
 Switcher hidden files for Mac OSX Finder.
 
 Download the last program executable here:
-<link>https://github.com/danilogcarolino/HiddenFilesToogleForMac/releases/download/1.0.1/hiddenfiles</link>
+<link>https://github.com/danilogcarolino/HiddenFilesToogleForMac/releases/download/v.1.0.1/hiddenfiles</link>
 
 OR
 
